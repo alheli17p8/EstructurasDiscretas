@@ -1,0 +1,2 @@
+# EstructurasDiscretas
+Practicas de laboratorio 
