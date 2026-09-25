@@ -1,5 +1,5 @@
 # EstructurasDiscretas
-El objetivo de esta Practica 1, es descargar Haskell y git, siguiendo las instrucciones dadas por el profesor,verificar que version tenemos de cada una, ademas de que empezemos a familiarizarnos con los archivos README y como mandar archivos o carpetas a nuestro repositorio
+El objetivo de esta Practica 1, es descargar Haskell y git, siguiendo las instrucciones dadas por el profesor, verificar que version tenemos de cada una, ademas de que empezemos a familiarizarnos con los archivos README y como mandar archivos o carpetas a nuestro repositorio
 
 Para poder realizar esta practica completa me tomo 1:30hr
 
