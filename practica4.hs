@@ -13,3 +13,11 @@ a_natural n
    |n > 0     = S (a_natural (n - 1))
    |otherwise = error "Solo se permiten numeros naturales (>=0)"
 
+{-
+Funcion: a_entero
+Descripcion: Recibe un Natural y lo devuelvo en Entero
+Uso: a_entero (S (S (S Cero)))
+-}
+a_entero :: Natural -> Int
+a_entero Cero = 0
+a_entero (S n) = 1 + a_entero n 
