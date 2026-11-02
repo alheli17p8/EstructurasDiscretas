@@ -10,7 +10,9 @@ Para hacer esta practica me tomo aprox unas 4 hr, que fueron intermitentes, la v
 
 ### ¿Cuál es la diferencia de las operaciones implementadas en ambos archivos? ¿Como se manejan todos los casos en cada implementación?
 Para empezar el que esta en el repositorio solo implementa dos funciones, mientras que el del classroom necesita 3.Ademas que el del repo se ve mucho mas compacto al no tener tantas funciones,notemos que en el repo usa Zero y Succ, mientras que en el del classroom usa Cero y Succ.
+
 También en el archivo del classroom los casos son mas explícitos viene un caso para los positivos y aparte otro para los que tengan Neg, ademas de usar if para ver si se cancelan y para hacer la resta de dos enteros usa el mayorEnt para decidir el signo.
+
 Por otro lado en el repo se agrupan los casos base y recursivos, ademas que en la resta no compara nada, solo quita un Succ a cada lado hasta que uno llega a Zero y ahi el caso base decide el signo.
 
 
